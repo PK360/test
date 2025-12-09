@@ -11,6 +11,7 @@ select
     (m.last_name || ' ' || m.first_name)
 from member m
 
+    --sdajkasdhjdasja
 
 -- ex. 3
 select
@@ -26,3 +27,4 @@ from rental rr
         )
         where rownum = 1
     )
+
